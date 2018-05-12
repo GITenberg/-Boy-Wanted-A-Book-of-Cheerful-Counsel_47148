@@ -1,4 +1,8 @@
 _repo: -Boy-Wanted-A-Book-of-Cheerful-Counsel_47148
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47148-h/images/cover.jpg
 creator:
   author:
     agent_name: Waterman, Nixon
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '32171'
     url: http://www.gutenberg.org/2009/agents/32171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47148#-Boy-Wanted-A-Book-of-Cheerful-Counsel
 gutenberg_issued: '2014-10-19'
 gutenberg_type: Text
 identifiers:
